@@ -1,0 +1,56 @@
+@import url(reset.css);
+@import url(style.css);
+
+@font-face {
+    font-family: TT Norms Pro Edu Variable;
+    src: url(../fonts/TTNorms.ttf);
+}
+
+h1 {
+    font-family: 'TT Norms Pro Edu Variable';
+font-style: normal;
+font-weight: 620;
+font-size: 4rem;
+line-height: 90%;
+text-align: center;
+display: block;
+margin-top: 3rem;
+margin-left: 2rem;
+margin-right: 2rem;
+/* identical to box height, or 55px */
+}
+
+h3 {
+    font-family: 'TT Norms Pro Edu Variable';
+font-style: normal;
+font-weight: 620;
+font-size: 2.5rem;
+line-height: 90%;
+text-align: center;
+display: block;
+margin-top: 3rem;
+margin-left: 2rem;
+margin-right: 2rem;
+/* identical to box height, or 55px */
+}
+
+h5 {
+    font-family: 'TT Norms Pro Edu Variable';
+font-style: normal;
+font-weight: 545;
+font-size: 2.1rem;
+line-height: 90%;
+color: aliceblue;
+margin-bottom: 1.3rem;
+}
+
+p {
+    font-family: 'TT Norms Pro Edu Variable';
+font-style: normal;
+margin-top: 1.5rem;
+font-weight: 411;
+font-size: 1.4rem;
+line-height: 120%;
+/* or 19px */
+letter-spacing: 0.5px;
+}
